@@ -8,7 +8,7 @@ Fii inteligent în materie de supraveghere statală
 
 # HTML Meta (description). First part of the string is also available in the landing page file (smarton(index.lang)
 ;Decide where you think the line should be – and keep others from crossing it. Get smart on government surveillance.
-Decide unde crezi că trebuie trasă linia – și oprește pe alții din a o trece. Fii inteligent în materie de supraveghere statală.
+Decide unde crezi că trebuie trasă linia – și nu le permite altora să o depășească. Fii inteligent în materie de supraveghere statală.
 
 
 ;Ask yourself
@@ -38,7 +38,7 @@ Supravegherea statală explicată
 
 
 ;Stakeouts have always been an essential tool for law enforcement and national security.
-Filările au fost întotdeauna o unealtă esențială pentru poliție și pentru securitatea națională.
+Filările au fost întotdeauna o unealtă esențială pentru autoritățile care aplică legea și pentru securitatea națională.
 
 
 ;The difference now is that they’ve moved beyond binoculars, bugs and bad guys: surveillance has gone digital.
@@ -54,7 +54,7 @@ Este echivalent cu confiscarea unui car cu fân pentru eventualitatea în care s
 
 
 ;Stored info is vulnerable info
-Informația stocată este valoroasă
+Informațiile stocate sunt valoroase
 
 
 ;In order to tailor personal experiences for you, virtually every technology company you interact with collects and stores some amount of your personal information.
@@ -125,7 +125,7 @@ Statele nu ar trebui să slăbească securitatea noastră a tuturor în numele s
 
 # Quote in the sidebar
 ;“Some amount of surveillance for law enforcement and intelligence, properly designed, is valuable to keep us safe. But when it’s too broad, it violates the privacy rights of millions of innocent people, and can even undermine our security.”
-„Un nivel de supraveghere, bine gândit pentru poliție și pentru servicii secrete, are valoare și ne menține în siguranță. Dar când este prea extins, aceasta încalcă dreptul la intimitate a milioane de oameni și poate chiar să ne submineze securitatea.”
+„Un nivel de supraveghere, bine gândit pentru instituțiile care aplică legea și pentru servicii secrete, are valoare și ne menține în siguranță. Dar când este prea extins, aceasta încalcă dreptul la intimitate a milioane de oameni nevinovați și poate chiar să ne submineze securitatea.”
 
 
 ;— Chris Riley, Head of Public Policy, Mozilla
@@ -134,7 +134,7 @@ Statele nu ar trebui să slăbească securitatea noastră a tuturor în numele s
 
 # This fragment follows the number '61%'. If this doesn't work for your locale, you can start the sentence with "Percentage of Internet users who…"
 ;of Internet users are concerned with the police or other government agencies from their country secretly monitoring their online activities
-de utilizatori internet sunt îngrijorați că poliția sau alte agenții guvernamentale ale țării lor le monitorizează în secret activitățile lor online
+dintre utilizatorii de internet sunt îngrijorați că poliția sau alte agenții guvernamentale ale țării lor le monitorizează în secret activitățile online
 
 
 # "CIGI IPSOS" is an acronym and should not be translated. Link to https://www.cigionline.org/sites/default/files/survey/slides.pdf
@@ -147,7 +147,7 @@ Acționează înainte să reacționezi
 
 
 ;We all have the right to live a full online life without fear of surveillance. Rather than give up your freedom, take back your control.
-Noi toții avem dreptul să trăim vieți online fără a ne fi frică de supraveghere. În loc de a renunța la libertate, preia controlul.
+Noi toți avem dreptul să trăim vieți online fără a ne fi frică de supraveghere. În loc să renunți la libertate, preia controlul.
 
 
 ;Take a stand
@@ -155,7 +155,7 @@ Ia atitudine
 
 
 ;The first thing we can all do is keep our eyes and ears out – and make our voices heard.
-Primul lucru pe care îl putem face noi toți este să avem ochii deschiși și să ne facem vocile auzite.
+Primul lucru pe care îl putem face noi toți este să avem ochii deschiși și urechile deschise – și să ne facem vocile auzite.
 
 
 ;Get informed
@@ -172,7 +172,7 @@ Fii la curent
 
 # Link points to https://www.mozilla.org/newsletter/
 ;Sign up for the <a href="{url}">Mozilla newsletter</a> (English only).
-Înscrie-te pentru <a href="{url}">buletinul informativ Mozilla</a> (doar în engleză).
+Înscrie-te pentru <a href="{url}">buletinul de știri Mozilla</a> (doar în engleză).
 
 
 ;We actively track issues of mass surveillance and other threats to the Web, so we’ll let you know about opportunities to speak out.
@@ -242,11 +242,11 @@ Nu folosi aceeași parolă peste tot.
 
 
 ;Would you use the same key for your front door, your car, and your safety deposit box? Probably not.
-Ai folosi aceeași cheie pentru ușa de la casă, de la mașină și de la seif? Probabil nu.
+Ai folosi aceeași cheie pentru ușa de la casă, pentru mașină și pentru cutia de valori? Probabil nu.
 
 
 ;Keep track with a password manager instead.
-Păstrează evidența cu un gestionar de parole.
+Păstrează evidența cu un manager de parole.
 
 
 ;See instructions for <a href="{firefox}">Firefox</a>, <a href="{chrome}">Chrome</a>, <a href="{ie}">Internet Explorer</a>, <a href="{safari}">Safari</a> and <a href="{opera}">Opera</a>.
@@ -254,11 +254,11 @@ Vezi instrucțiuni pentru <a href="{firefox}">Firefox</a>, <a href="{chrome}">Ch
 
 
 ;Do the two-step
-Autentificarea în doi pași
+Realizează autentificarea în doi pași
 
 
 ;For the best protection, take advantage of 2-step authentication wherever it’s offered.
-Pentru protecție maximă, profită de autentificarea în doi pași atunci când este oferită.
+Pentru cea mai bună protecție, profită de autentificarea în doi pași atunci când este oferită.
 
 
 ;Try encryption
@@ -286,7 +286,7 @@ Criptarea dispozitivelor
 
 
 ;Use these on your devices to make sure the only eyes that see your personal information are the ones you authorize.
-Folosește acestea pe dispozitive pentru a te asigura că singurii ochi care văd informația ta personală sunt aceia care au acordul tău.
+Folosește acestea pe dispozitive pentru a te asigura că singurii ochi care văd informațiile tale personale sunt aceia care au acordul tău.
 
 
 ;<a href="{url}">FileVault</a> — a free and built-in way to encrypt your Mac’s startup disk
@@ -316,7 +316,7 @@ Etalează-ți cunoștințele în materie de supraveghere
 
 
 ;Now that you have tools to help protect yourself, spread the word to friends.
-Acum că ai uneltele cu care să te auto-protejezi, răspândește vestea și prietenilor.
+Acum că ai uneltele cu care să te autoprotejezi, dă de veste prietenilor.
 
 
 ;The only way we’ll get a handle on this fundamental issue of technology is if we keep the conversation going.
@@ -330,12 +330,12 @@ Ce ar fi mai comod de împărtășit cu statul: numărul contului curent sau pro
 
 # Will be used as a tweet. Keep it as short as possible.
 ;If you had a digital lockbox that no one could see but you, what would you put in it?
-Dacă ai avea un seif digital pe care nimenu nu l-ar putea vedea în afară de tine, ce ai pune în acesta?
+Dacă ai avea o cutie de valori pe care nimeni nu ar putea-o vedea în afară de tine, ce ai pune în acesta?
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;Have you stopped sharing certain things online since you found out about mass government surveillance?
-Ai încetat să mai postezi despre anumite lucruri online după ce ai aflat de supravegherea masivă statală?
+Ai încetat să mai postezi despre anumite lucruri online după ce ai aflat de supravegherea statală la scară largă?
 
 
 # Link points to https://teach.mozilla.org/activities/

@@ -44,7 +44,7 @@ Nu poți preveni toate amenințările – online sau offline.
 
 
 ;But you can definitely minimize your risk with some awareness and common sense.
-Dar poți sigur minimiza riscul cu ceva atenție și bun simț.
+Dar poți sigur minimiza riscul cu ceva vigilență și bun simț.
 
 
 ;Watch this video
@@ -75,7 +75,7 @@ dintre utilizatorii de internet sunt îngrijorați că cineva le-ar putea sparge
 
 
 ;Protecting yourself starts with knowing what to look out for. Here’s a quick rundown of the three most common cybersecurity threats:
-Protecția personală începe cu semnele după care trebuie să fii atent(ă). Iată trei din cele mai frecvente amenințări de cibersecuritate:
+Protecția personală începe cu cunoașterea lucrurilor pe care le cauți. Iată trei din cele mai frecvente amenințări de cibersecuritate:
 
 
 ;Manipulation
@@ -104,7 +104,7 @@ Malware {ok}
 
 
 ;Viruses, worms, Trojan horses… These nasty little programs are designed to infect your machine to cause damage, steal personal information, spy or force ads on you.
-Viruși, viermi, cai troieni… Aceste programe malefice sunt proiectate să infecteze sistemul tău și să cauzeze pagube, să fure informații personale, să te spioneze sau să livreze publicitate nesolicitată.
+Viruși, viermi, cai troieni… Aceste programe malefice sunt proiectate să-ți infecteze sistemul și să cauzeze pagube, să fure informații personale, să te spioneze sau să livreze publicitate nesolicitată.
 
 
 ;Avoiding malware means being smart about where you click.
@@ -128,7 +128,7 @@ Construiește o plasă de siguranță
 
 
 ;Improve your security online with these safety measures recommended by Mozilla policy pros.
-Îmbunătățește securitatea ta online cu aceste măsuri de securitate recomandate de profesioniștii Mozillei în materie de securitate.
+Îmbunătățește-ți securitatea online cu aceste măsuri de securitate recomandate de profesioniștii Mozillei în materie de securitate.
 
 
 ;Look both ways
@@ -136,7 +136,7 @@ Fii vigilent
 
 
 ;The first and most important thing is just to pay close attention to where and when you click.
-Înainte de toate trebuie să fii atent(ă) unde și când dai clic.
+Primul și cel mai important lucru este să acorzi o atenție deosebită unde și când dai clic.
 
 
 ;Trust your gut
@@ -156,7 +156,7 @@ Ai grijă de tine în public
 
 
 ;When you navigate the Web on a public Wi-Fi network, anyone who chooses to snoop can see some or all of your activity.
-Când navighezi webul pe o rețea WiFi publică, o altă persoană de pe aceeași rețea ar putea vedea toată sau o parte din activitatea ta.
+Când navighezi pe web de pe o rețea Wi-Fi publică, oricine alege să te spioneze virtual poate vedea o parte sau toată activitatea ta.
 
 
 ;So avoid sensitive activities when surfing in public.
@@ -164,7 +164,7 @@ Așa că evită utilizarea informațiilor personale atunci când navighezi pe o 
 
 
 ;And before you share any kind of info anywhere online, think about how it might make you vulnerable.
-Și înainte de a împărtăși orice fel de informație oriunde online, gândește-te la cum ar putea să te facă vulnerabil(ă).
+Și înainte de a împărtăși orice fel de informații oriunde online, gândește-te la cum ar putea să te vulnerabilizeze.
 
 
 ;Lock your doors
@@ -198,7 +198,7 @@ Ai folosi aceeași cheie pentru ușa de la casă, de la mașină și de la seif?
 
 
 ;<a href="{url}">Keep track with a password manager</a> instead.
-în loc de asta, <a href="{url}">păstrează evidența cu un gestionar de parole</a>.
+În loc de asta, <a href="{url}">păstrează evidența cu un manager de parole</a>.
 
 
 ;Do the two-step
@@ -206,12 +206,12 @@ Autentificarea în doi pași
 
 
 ;For the best protection, take advantage of 2-step authentication wherever it’s offered.
-Pentru protecție maximă, profită de autentificarea în doi pași atunci când este oferită.
+Pentru cea mai bună protecție, profită de autentificarea în doi pași atunci când este oferită.
 
 
 # Link points to http://stopthinkconnect.org/2stepsahead/resources
 ;Find out more.
-Află mai multe
+Află mai multe.
 
 
 ;In case of emergency
@@ -220,7 +220,7 @@ Află mai multe
 
 # Link points to https://www.staysafeonline.org/stay-safe-online/keep-a-clean-machine/hacked-accounts
 ;Here’s what to do <a href="{url}">if you think your account has been compromised</a>.
-Iată ce poți face <a href="{url}">dacă crezi că contul tău a fost spart</a>.
+Iată ce poți face <a href="{url}">dacă crezi că contul tău a fost compromis</a>.
 
 
 ;Fix it before it breaks
@@ -228,7 +228,7 @@ Repară-l înainte de a se strica
 
 
 ;Software updates are like oil changes ­– they can be a hassle in the moment, but a lifesaver in hindsight.
-Actualizările software sunt ca schimbul de ulei ­– pot fi o corvadă pe moment, dar o soluție care poate salva vieți în viitor.
+Actualizările software sunt ca schimbul de ulei ­– pot fi o bătaie de cap pe moment, dar o soluție care poate salva vieți în viitor.
 
 
 ;Update apps and devices regularly to take advantage of developers’ latest and greatest security enhancements.
@@ -244,7 +244,7 @@ Actualizare Firefox
 
 
 ;Firefox plugin check
-Verificare pluginuri Firefox
+Verificare de pluginuri Firefox
 
 
 ;Chrome update
@@ -252,7 +252,7 @@ Actualizare Chrome
 
 
 ;Chrome plugin check
-Verificare pluginuri Chrome
+Verificare de pluginuri Chrome
 
 
 ;Internet Explorer update
@@ -260,7 +260,7 @@ Actualizare Internet Explorer
 
 
 ;Internet Explorer plugin check
-Verificare pluginuri Internet Explorer
+Verificare de pluginuri Internet Explorer
 
 
 ;Safari update
@@ -268,7 +268,7 @@ Actualizare Safari
 
 
 ;Safari plugin check
-Verificare pluginuri Safari
+Verificare de pluginuri Safari
 
 
 ;Operating systems
@@ -280,7 +280,7 @@ Instalează un sistem de securitate
 
 
 ;Now that you’ve handled the basics, set the alarm.
-Acum că am parcurs bazele, pune ceasul să sune.
+Acum că ai parcurs elementele de bază, instalează o alarmă.
 
 
 ;These programs prevent and protect against cyber surprises.
@@ -331,21 +331,21 @@ Poartă conversații cu comunitatea ta pe rețele sociale, acasă — poate și 
 
 # Link points to https://teach.mozilla.org/activities/
 ;Are you a teacher? Give your students a <a href="{url}">simple lesson in cybersecurity</a>.
-Ești profesor? Oferă elevilor tăi o <a href="{url}">lecție simplă în cibersecuritate</a>.
+Ești profesor? Oferă elevilor tăi o <a href="{url}">lecție simplă despre cibersecuritate</a>.
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;How many online passwords do you have?
-Câte parole online folosești?
+Câte parole online deții?
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;What kind of security tips and tricks do you use online?
-Ce fel de ponturi și trucuri folosești online?
+Ce fel de ponturi și trucuri de securitate folosești online?
 
 
 # Will be used as a tweet. Keep it as short as possible.
 ;On a scale from 1 to 10, how safe do you feel online? Is it always clear to you whether or not your activities are secure?
-Pe o scară de la 1 la 10, cât de sigur(ă) te simți online? Ai mereu certitudinea că activitățile tale se desfășoară în siguranță?
+Pe o scară de la 1 la 10, cât de în siguranță te simți online? Ai mereu certitudinea că activitățile tale se desfășoară în siguranță?
 
 
