@@ -125,7 +125,7 @@ Statele nu ar trebui să slăbească securitatea noastră a tuturor în numele s
 
 # Quote in the sidebar
 ;“Some amount of surveillance for law enforcement and intelligence, properly designed, is valuable to keep us safe. But when it’s too broad, it violates the privacy rights of millions of innocent people, and can even undermine our security.”
-„Un nivel de supraveghere, bine gândit pentru instituțiile care aplică legea și pentru servicii secrete, are valoare și ne menține în siguranță. Dar când este prea extins, aceasta încalcă dreptul la intimitate a milioane de oameni nevinovați și poate chiar să ne submineze securitatea.”
+„Un nivel de supraveghere, bine gândit pentru instituțiile care aplică legea și pentru servicii secrete, are valoare și ne menține în siguranță. Dar când este prea extins, aceasta încalcă drepturile la intimitate a milioane de oameni nevinovați și poate chiar să ne submineze securitatea.”
 
 
 ;— Chris Riley, Head of Public Policy, Mozilla
@@ -147,7 +147,7 @@ Acționează înainte să reacționezi
 
 
 ;We all have the right to live a full online life without fear of surveillance. Rather than give up your freedom, take back your control.
-Noi toți avem dreptul să trăim vieți online fără a ne fi frică de supraveghere. În loc să renunți la libertate, preia controlul.
+Noi toți avem dreptul să trăim vieți online fără a ne fi frică de supraveghere. Decât să renunți la libertate, recapătă controlul.
 
 
 ;Take a stand
@@ -246,7 +246,7 @@ Ai folosi aceeași cheie pentru ușa de la casă, pentru mașină și pentru cut
 
 
 ;Keep track with a password manager instead.
-Păstrează evidența cu un manager de parole.
+În loc de asta, păstrează evidența cu un manager de parole.
 
 
 ;See instructions for <a href="{firefox}">Firefox</a>, <a href="{chrome}">Chrome</a>, <a href="{ie}">Internet Explorer</a>, <a href="{safari}">Safari</a> and <a href="{opera}">Opera</a>.
@@ -330,7 +330,7 @@ Ce ar fi mai comod de împărtășit cu statul: numărul contului curent sau pro
 
 # Will be used as a tweet. Keep it as short as possible.
 ;If you had a digital lockbox that no one could see but you, what would you put in it?
-Dacă ai avea o cutie de valori pe care nimeni nu ar putea-o vedea în afară de tine, ce ai pune în acesta?
+Dacă ai avea o cutie de valori digitală pe care nimeni nu ar putea-o vedea în afară de tine, ce ai pune în acesta?
 
 
 # Will be used as a tweet. Keep it as short as possible.
@@ -340,6 +340,6 @@ Ai încetat să mai postezi despre anumite lucruri online după ce ai aflat de s
 
 # Link points to https://teach.mozilla.org/activities/
 ;Are you a teacher? Give your students a <a href="{url}">simple lesson on government surveillance</a>.
-Ești profesor? Oferă-le elevilor tău o <a href="{url}">simplă lecție în supravegherea statală</a>.
+Ești profesor? Oferă-le elevilor tău o <a href="{url}">simplă lecție despre supravegherea statală</a>.
 
 
